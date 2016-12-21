@@ -1,14 +1,7 @@
-Flu Prediction System
+Flu Prediction System(Team Project)
+
+Owner:
+Luyi Yang, Juncheng Chen, Xiang Zhang
 
 Project Description: 	
 	Prior scholars have done a couple of researches about the potential of social media in prediction of disease outbreak. In this project we want to build a disease predictive system based on social media (Twitter). Our prediction system will send an alert to users when it’s likely to be a outbreak of flu. Before getting the results of the flu, a user must select a location. (See User Manual for more detailed instructions).
-
-Work Breakdown:
-
-Twitter API: Juncheng Chen
-Data Analysis & Algorithm: Luyi Yang
-User Interface: Xiang Zhang
-
-Note: Although each of the three parts has its own main contributor, it shares everyone’s contributions and we all participated during the entire process. 
-
-Link to github: https://github.com/cit-upenn/cit-591-projects-fall-2016-flu-detector
